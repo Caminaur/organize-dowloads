@@ -1,7 +1,7 @@
 # organize-dowloads
 It's just a simple script to automatically organize your download files
 
-###If you want this to automatically run in the background follow this instructions
+### If you want this to automatically run in the background follow this instructions
 
 1) Press Windows key and R. This will open a small window.
 2) Type **shell:startup** to open the startup folder
