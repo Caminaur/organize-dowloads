@@ -8,7 +8,9 @@ It's just a simple script to automatically organize your download files
 3) Now we'll create a small bash script with the following content
   
 `@echo off
+
 "path to your python executable" "the location of your order.pyw"
+
 pause`
   
   That's it!
