@@ -11,5 +11,5 @@ If you want this to automatically run in the background follow this instructions
 "path to your python executable" "the location of your order.pyw"
 pause
 
-that's it!
+That's it!
 When you restart your PC the script shoud be working properly
